@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rex_i\\OneDrive\\Desktop\\Znakomstvo\\lesson5\\Seminars5\\task1\\task1.csproj": {}
+    "C:\\Users\\rex_i\\OneDrive\\Desktop\\Znakomstvo\\LESSON5\\Seminars5\\task1\\task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rex_i\\OneDrive\\Desktop\\Znakomstvo\\lesson5\\Seminars5\\task1\\task1.csproj": {
+    "C:\\Users\\rex_i\\OneDrive\\Desktop\\Znakomstvo\\LESSON5\\Seminars5\\task1\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rex_i\\OneDrive\\Desktop\\Znakomstvo\\lesson5\\Seminars5\\task1\\task1.csproj",
+        "projectUniqueName": "C:\\Users\\rex_i\\OneDrive\\Desktop\\Znakomstvo\\LESSON5\\Seminars5\\task1\\task1.csproj",
         "projectName": "task1",
-        "projectPath": "C:\\Users\\rex_i\\OneDrive\\Desktop\\Znakomstvo\\lesson5\\Seminars5\\task1\\task1.csproj",
+        "projectPath": "C:\\Users\\rex_i\\OneDrive\\Desktop\\Znakomstvo\\LESSON5\\Seminars5\\task1\\task1.csproj",
         "packagesPath": "C:\\Users\\rex_i\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rex_i\\OneDrive\\Desktop\\Znakomstvo\\lesson5\\Seminars5\\task1\\obj\\",
+        "outputPath": "C:\\Users\\rex_i\\OneDrive\\Desktop\\Znakomstvo\\LESSON5\\Seminars5\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rex_i\\AppData\\Roaming\\NuGet\\NuGet.Config"
